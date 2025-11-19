@@ -1,0 +1,9 @@
+
+A1-ii) You should have mentioned “there are exceptions”: -1
+A1-ii) More comment is needed: -3
+A2-ii) More comment is needed: -3
+B1-i) Education level should be the categories on the x axis: -3
+B2-i) Marital Status should be the categories on the x axis: -3
+C2-i) The second visualization chart is not completely right: -1
+C2-ii) The is no answer for questions: -10
+76/100
